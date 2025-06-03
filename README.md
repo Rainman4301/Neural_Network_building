@@ -28,15 +28,5 @@ To deepen theoretical and practical understanding of neural networks by manually
    - Simple recurrent architecture to handle sequences.
    - Time-step processing and backpropagation through time (BPTT).
 
----
 
-## 🛠 Requirements
-
-- Python 3.x
-- NumPy
-- (Optional) Matplotlib for visualizations
-
-You can install the required packages using:
-```bash
-pip install -r requirements.txt
 
